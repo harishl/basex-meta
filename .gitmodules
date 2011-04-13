@@ -1,0 +1,6 @@
+[submodule "basex"]
+	path = basex
+	url = git@github.com:BaseXdb/basex.git
+[submodule "basex-tests"]
+	path = basex-tests
+	url = git@github.com:BaseXdb/basex-tests.git
