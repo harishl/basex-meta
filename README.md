@@ -38,10 +38,10 @@ __________
 * `mvn test` to run the normal and extended BaseX Tests
 * `mvn package` to run the package scripts for the basex & basex-api package. This leaves you with
 ** **basex** 
-*** `jar` 
-***  `exe` (where applicable) 
-*** `App Bundle` or Disk Image (if mvn is called on OSX)
-*** `.deb`
+* * * `jar` 
+* * *  `exe` (where applicable) 
+* * * `App Bundle` or Disk Image (if mvn is called on OSX)
+* * * `.deb`
 
 
 Feedback
